@@ -34,7 +34,12 @@
 			<name>润漪</name>
 			<email>runyi.lzr@alibaba-inc.com</email>
 			<timezone>8</timezone>
-			<url>/Users/rocky/Pictures/图片素材/照片/me.jpg</url>
+		</developer>
+		<developer>
+			<id>junven.xxb</id>
+			<name>Xu Xiaobin</name>
+			<email>juvenxu@alibaba-inc.com</email>
+			<timezone>8</timezone>
 		</developer>
 	</developers>
 	<issueManagement>
