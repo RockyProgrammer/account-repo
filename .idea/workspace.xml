@@ -1,353 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2afef660-fff9-400f-9f2f-5c59d561d655" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-aggregator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/account-aggregator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/account-captcha-1.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/account-captcha/target/account-captcha-1.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/javadoc-bundle-options/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/account-captcha/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/AccountCaptchaException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/AccountCaptchaService.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/AccountCaptchaServiceImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/RandomGenerator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/class-use/AccountCaptchaException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/class-use/AccountCaptchaService.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/class-use/AccountCaptchaServiceImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/class-use/RandomGenerator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/com/juvenxu/mvnbook/account/captcha/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/css/maven-base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/css/maven-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/dependencies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/dependency-convergence.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/dependency-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/dependency-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/distribution-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/close.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/collapsed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/expanded.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/external.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/icon_error_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/icon_info_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/icon_success_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/icon_warning_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/logos/maven-feather.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/images/newwindow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/integration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/issue-tracking.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/license.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/mail-lists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/plugin-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/plugins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/project-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/project-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/source-repository.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-captcha/target/site/team-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/account-email-1.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/account-email/target/account-email-1.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/javadoc-bundle-options/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/account-email/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/com/juvenxu/mvnbook/account/email/AccountEmailException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/com/juvenxu/mvnbook/account/email/AccountEmailService.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/com/juvenxu/mvnbook/account/email/class-use/AccountEmailException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/com/juvenxu/mvnbook/account/email/class-use/AccountEmailService.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/com/juvenxu/mvnbook/account/email/class-use/AccountEmailServiceImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/com/juvenxu/mvnbook/account/email/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/com/juvenxu/mvnbook/account/email/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/com/juvenxu/mvnbook/account/email/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/com/juvenxu/mvnbook/account/email/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/css/maven-base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/css/maven-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/dependencies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/dependency-convergence.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/dependency-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/dependency-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/distribution-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/close.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/collapsed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/expanded.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/external.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/icon_error_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/icon_info_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/icon_success_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/icon_warning_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/logos/maven-feather.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/images/newwindow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/integration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/issue-tracking.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/license.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/mail-lists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/plugin-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/plugins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/project-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/project-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/source-repository.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-email/target/site/team-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/account-parent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/account-persist-1.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/account-persist/target/account-persist-1.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/javadoc-bundle-options/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/account-persist/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/Account.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/AccountPersistException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/AccountPersistService.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/AccountPersistServiceImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/class-use/Account.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/class-use/AccountPersistException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/class-use/AccountPersistService.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/class-use/AccountPersistServiceImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/com/juvenxu/mvnbook/account/persist/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/css/maven-base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/css/maven-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/dependencies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/dependency-convergence.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/dependency-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/dependency-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/distribution-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/close.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/collapsed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/expanded.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/external.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/icon_error_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/icon_info_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/icon_success_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/icon_warning_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/logos/maven-feather.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/images/newwindow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/integration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/issue-tracking.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/license.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/mail-lists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/plugin-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/plugins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/project-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/project-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/source-repository.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-persist/target/site/team-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/account-service-1.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/target/account-service-1.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/javadoc-bundle-options/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/AccountService.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/AccountServiceException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/AccountServiceImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/SignUpRequest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/class-use/AccountService.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/class-use/AccountServiceException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/class-use/AccountServiceImpl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/class-use/SignUpRequest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/com/juvenxu/mvnbook/account/service/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/css/maven-base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/css/maven-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/dependencies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/dependency-convergence.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/dependency-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/dependency-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/distribution-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/close.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/collapsed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/expanded.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/external.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/icon_error_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/icon_info_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/icon_success_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/icon_warning_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/logos/maven-feather.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/images/newwindow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/integration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/issue-tracking.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/license.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/mail-lists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/plugin-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/plugins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/project-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/project-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/source-repository.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/target/site/team-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/account-web-1.0.1-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/target/account-web-1.0.1-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/account-web-1.0.1-SNAPSHOT/WEB-INF/lib/account-captcha-1.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/target/account-web-1.0.1-SNAPSHOT/WEB-INF/lib/account-captcha-1.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/account-web-1.0.1-SNAPSHOT/WEB-INF/lib/account-email-1.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/target/account-web-1.0.1-SNAPSHOT/WEB-INF/lib/account-email-1.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/account-web-1.0.1-SNAPSHOT/WEB-INF/lib/account-persist-1.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/target/account-web-1.0.1-SNAPSHOT/WEB-INF/lib/account-persist-1.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/account-web-1.0.1-SNAPSHOT/WEB-INF/lib/account-service-1.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/target/account-web-1.0.1-SNAPSHOT/WEB-INF/lib/account-service-1.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/javadoc-bundle-options/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/account-web/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/ActivateServlet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/CaptchaImageServlet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/LoginServlet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/SignUpServlet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/class-use/ActivateServlet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/class-use/CaptchaImageServlet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/class-use/LoginServlet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/class-use/SignUpServlet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/com/juvenxu/mvnbook/account/web/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/apidocs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/css/maven-base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/css/maven-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/dependencies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/dependency-convergence.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/dependency-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/dependency-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/distribution-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/close.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/collapsed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/expanded.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/external.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/icon_error_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/icon_info_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/icon_success_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/icon_warning_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/logos/maven-feather.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/images/newwindow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/integration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/issue-tracking.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/license.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/mail-lists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/plugin-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/plugins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/project-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/project-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/source-repository.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-web/target/site/team-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-convergence.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/dependency-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/distribution-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/close.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/external.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/integration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/issue-tracking.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/license.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/mail-lists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/modules.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/project-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/source-repository.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/team-list.html" beforeDir="false" />
-    </list>
+    <list default="true" id="2afef660-fff9-400f-9f2f-5c59d561d655" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/account-email/target/" />
@@ -429,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -589,7 +243,7 @@
       <updated>1610246527593</updated>
       <workItem from="1610246532431" duration="27882000" />
       <workItem from="1610329495457" duration="18468000" />
-      <workItem from="1610509630028" duration="3880000" />
+      <workItem from="1610509630028" duration="4282000" />
     </task>
     <servers />
   </component>
@@ -599,7 +253,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50230000" />
+    <option name="totallyTimeSpent" value="50632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="135" y="-1007" width="1440" height="829" extended-state="0" />
@@ -907,7 +561,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
         </state>
       </provider>
     </entry>
