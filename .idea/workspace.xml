@@ -82,7 +82,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="317">
               <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
             </state>
           </provider>
@@ -146,8 +146,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="135" />
-    <option name="y" value="-1007" />
+    <option name="x" value="77" />
+    <option name="y" value="-1001" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
   </component>
@@ -243,7 +243,7 @@
       <updated>1610246527593</updated>
       <workItem from="1610246532431" duration="27882000" />
       <workItem from="1610329495457" duration="18468000" />
-      <workItem from="1610509630028" duration="4282000" />
+      <workItem from="1610509630028" duration="5621000" />
     </task>
     <servers />
   </component>
@@ -253,10 +253,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50632000" />
+    <option name="totallyTimeSpent" value="51971000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="-1007" width="1440" height="829" extended-state="0" />
+    <frame x="77" y="-1001" width="1440" height="829" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26466382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -560,7 +560,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="317">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
         </state>
       </provider>
