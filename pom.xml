@@ -17,7 +17,7 @@
 		<junit.version>4.7</junit.version>
 	</properties>
 
-	<!--丰富项目信息-->
+	<!--丰富项目的信息-->
 	<description>《Maven实战》账户注册案例</description>
 	<url>http://localhost:8080/account</url>
 	<scm>
